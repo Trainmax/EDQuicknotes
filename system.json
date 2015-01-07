@@ -1,0 +1,13 @@
+{
+"system":"aldebaran",
+"info":{
+  "blackmarket": true,
+  "neighbors": {
+    "1": "frey",
+    "2": "sol"
+  },
+  "imports":["fruits", "weapons", "shampoo"],
+  "exports":["slaves", "milk"],
+  "stations":["Superhub", "schrottstation", "Jupidu Dock"]
+}
+}
