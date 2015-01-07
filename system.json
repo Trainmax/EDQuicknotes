@@ -1,13 +1,21 @@
 {
-"system":"aldebaran",
-"info":{
-  "blackmarket": true,
-  "neighbors": {
-    "1": "frey",
-    "2": "sol"
-  },
-  "imports":["fruits", "weapons", "shampoo"],
-  "exports":["slaves", "milk"],
-  "stations":["Superhub", "schrottstation", "Jupidu Dock"]
-}
+   "_id": "7c61c6581e66b28d9f063a6497005ffe",
+   "_rev": "1-7420b88b59200632368253cef6e89366",
+   "system": "Sol",
+   "neighbors": [
+       "Aldebaran",
+       "Alpha Centauri",
+       "Vulcan"
+   ],
+   "imports": [
+       "Holz",
+       "Stein",
+       "Styropor"
+   ],
+   "exports": [
+       "Alte vertrocknete putzlappen"
+   ],
+   "notes": "Hier gibts nichts zu holen",
+   "blackmarket": false,
+   "faction": "Allianz"
 }
