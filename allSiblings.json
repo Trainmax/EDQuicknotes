@@ -1,0 +1,9 @@
+{
+  "Sol":["Aldebaran","Alpha Centauri"],
+  "Aldebaran":["Sol","Tau Ceti"],
+  "Tau Ceti":["Aldebaran","Frey", "Ross 123"],
+  "Frey":["Tau Ceti","Endor"],
+  "Ross 123":["Tau Ceti","Hoth"],
+  "Endor":["Frey"],
+  "Hoth":["Ross 123"]
+}
